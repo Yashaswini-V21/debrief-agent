@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 <br/>
-<b><a href="https://debrief-agent.lovable.app">[🔗 FULL LIVE DASHBOARD ]</a></b> &nbsp;&nbsp;|&nbsp;&nbsp; <b><a href="https://youtu.be/qNxpv1vEIRo">[📺 YOUTUBE PRESENTATION (Placeholder) ]</a></b>
+<b><a href="https://debrief-agent.lovable.app">[🔗 FULL LIVE DASHBOARD ]</a></b> &nbsp;&nbsp;|&nbsp;&nbsp; <b><a href="https://youtu.be/qNxpv1vEIRo">[📺 YOUTUBE PRESENTATION  ]</a></b>
 
 <br/><br/>
 <h3>🏆 Official Hackathon Submission: The Agent Harness</h3>
